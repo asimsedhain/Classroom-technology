@@ -1,0 +1,1317 @@
+Location,Lamp Hrs,Lamp Hours(2),Projector Type,Filter Hrs,Lamp Status,Last Checked,Prev. Inc.,Model: Control | TP,IP: Control | TP  ,FW: Control | TP,AMX IP,Last Checked,Notes
+ALH108,,,Verify,,,,,PRO3,10.20.18.12,,,10/8/2018,
+ALH113,,,Verify,,,,,PRO3,10.20.18.12,,,5/18/2018,
+ARC112,268,N/A,NEC NP-PA803UL,Self Cleaning,GOOD,6/4/2019,INC0123807,DMPS3-4K-100-C | TSW-760,192.168.80.148,1.502.3205.17254 (Oct 11 2017),,5/18/2018,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(6507727) and DMPS3-4K-100-C(Inv. #: None)(P/N: 6507978)(S/N: 15631805)(Mfg. Date: JUN-16), QSC Amp(Model: ISA300Ti)(Inv. #: None)(S/N: 110928247), Cisco Managed Switch(Inv. #: None)(Model: Catalyst 3560-CG)(S/N: FOC1725Y27T), Elmo TT-12 Document Camera(Inv. #s: Black: 21413 and Black: 21056 )(S/N: 1207625), Logitech Webcam, Shure SLX1 Wireless Mic Transmitter and SLX4 Receiver | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam |"
+ARC114,3250,N/A,Panasonic PT-VZ575N,Self Cleaning,GOOD,6/4/2019,INC0123824,DMPS3-4K-100-C | AMX NXD-500I,,,192.168.80.150,5/18/2018,"System- 
+Components: 
+Crestron- 
+? TSW-560-TTK-B-S (6507727) Touchpanel 
+? DMPS3-4K-100-C (Inv. #: None)(S/N: 1810JBH07030) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: FOC1729Y02Z)(Mfg. Date: 20130715), ELMO TT-12 Document Camera(Inv. #: Black: 21057 and Black: 21412)(S/N: 1207639), Logitech Webcam| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+ARC141,108,N/A,Epson 4750W,0,GOOD,6/4/2019,INC0123842,AMX Wallplate,,,192.168.80.132,,"System- 
+Components: AMX Wallplate | "
+BEP124,2459,N/A,Panasonic PT-VZ575N,269,GOOD,5/13/2019,"INC0105438
+",N/A,,,,,"System- 
+Components: Wallplate | Sources: Computer, HDMI Cable | "
+BEP125,923,N/A,Panasonic PT-VZ575N,789,GOOD,5/13/2019,"INC0105397
+",N/A,,,,5/18/2018,"System- 
+Components: Crestron wallplate, Projector remote | Sources: HDMI+VGA Cable | "
+BEP128,4648,N/A,Panasonic PT-VZ575N,150,GOOD,5/13/2019,INC0105399,N/A,,,,,"System- 
+Components: Crestron HD-RX-201-C-E (S/N: L17530560) wallplate, Projector remote | Sources: HDMI+VGA Cable | "
+BEP129,847,N/A,Panasonic PT-VZ575N,902,GOOD,5/13/2019,INC0105401,N/A,,,,,"System- 
+Components: Crestron HD-RX-201-C-E (S/N: L17530555) wallplate, Projector remote | Sources: HDMI+VGA Cable | "
+BEP132,3535,N/A,Panasonic PT-VZ575N,956,GOOD,5/13/2019,INC0097327,N/A,,,,,"System- 
+Components: Crestron Wallplate, Projector remote | Sources: VGA W Audio and HDMI cables | "
+BEP139,972,N/A,Epson 4300,0,GOOD,1/3/2019,,QM-RMC | TSW-730 ,192.168.80.144,4.008.0008 (Oct 22 2013) | ,,,"System- This room utilizes XPanel software as a touchpanel 
+Components: Extron MLS406SA, Epson ELPDC05 Document Camera(Inv. #: Black and White: 15789)(S/N: FYZ05Y1775), Logitech Webcam, Epiphan VGA2USB adapter | Sources: Computer, Laptop, Doc Cam | "
+BEP140,829,N/A,NEC NP-P502WL-2,Self Cleaning,GOOD,5/13/2019,"INC0097328
+",MPS-100 | TSW-750,192.168.80.146,4.003.0015 (Oct 2010) | ,,,"System- 
+Components: Crestron TSW-750-TTK-B-S(6506065) and MPS-100, Epson ELPDC05 Document Camera(Inv. #: None)(S/N: FYZ04Z0630), Logitech Webcam | Sources: Computer, Laptop VGA, Doc Cam | "
+BEP142,341,,NEC NP-P451W,154,GOOD,1/3/2019,"INC0097334
+",MPS-100,192.168.80.160,4.003.0015 (Oct 2010) |,,,"System- 
+Components: XPanel software, Crestron Touchpanel (Model: Verify)(Inv. #: None)(S/N: Verfiy), MPS-100(Inv. #: None)(S/N: 5223064), Cisco Catalyst 3560-CG Series PoE Managed Switch(Inv. #: None)(S/N: FOC1632Y4A8), Extron MPA 401-70V, Kramer VP-444 and PT-571 HDMI Transmitter(Inv. #: None)(S/N: 07140840202170), ELMO TT-12 Document Camera(Inv. #: None)(S/N: 1308460), Logitech Webcam | Sources: Computer, Laptop/VGA, Laptop/HDMI, Document Camera | "
+BEP144,1629,N/A,Epson 4750W,0,GOOD,1/3/2019,,DMPS3-4K-100-C |TSW-760,10.20.12.10,1.501.2958.31007 (FEB 06 2017) |,,,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(5607727) and DMPS3-4K-100-C, Elmo TT-12 Document Camera(Inv. #: None)(S/N: 1263618), Logitech HD Webcam |"
+BEP213,1593,N/A,Panasonic PT-VZ575N,1197,GOOD,5/14/2019,,DMPS3-4K-150-C,192.168.80.177,1.501.2958.31007,,5/18/2018,"System- 
+Components: 
+Crestron TSW-750-TTK-B-S(6506065)Touchpanel, DMPS3-4K-150-C(Inv. # None)(P/N: 6507090)(S/N: 14366419)(Mfg. Date: DEC-15), HD-DA-2(Inv. #: None(P/N: 6503809)(S/N: 13771546)(PW-2407WU), MP-AMP30(Inv. #: None)(P/N: 6503723)(S/N: 14475221), Cisco Catalyst WS-C3560CG-8PC-S PoE Managed Switch(Inv. #: None)(S/N: FOC1729Y02C), DelvCam Confidence Monitor, Epson ELPDC05 Document Camera(Inv. #: Black Only: 15474)(S/N: FYZ0581243), Crown C-Mic, RDL EZ-MPA1 Mic Preamp(305 101538), Marshall C-Cam, Logitech Webcam, Epiphan DVI and SDI2USB3.0 adapters | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+BEP215,0,N/A,Panasonic PT-VZ575N,0,GOOD,5/14/2019,"INC0097338
+",DMPS3-4K-150-C,192.168.80.182,1.502.3205.17254,,5/18/2018,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-4K-150-C, Epson ELPDC05 Document Camera(Inv. #: Black and White: 15589)(S/N: FYZ05Z1997), Delvcam VGA & Monitor 619160242, Logitech Webcam, Epiphan DVI2USB adapter, Smart Board X800 (Inv. #: None)(S/N: G012GI08C0032), Sharp LC-70LE661U TV (Inv. #: None)(S/N: 611416391) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+BEP218,4256,N/A,Panasonic PT-VZ575,198,GOOD,1/3/2019,INC0097342,DMPS3-4K-150-C,192.168.80.236,1.500.3205.17254,,5/18/2018,"System-
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-4K-150-C, Epson ELPDC05 Document Camera(Inv. #: Black and White: 15589)(S/N: FYZ05Z1997), Delvcam VGA & Monitor 619160242, Logitech Webcam, Epiphan DVI2USB adapter, Smart Board X800 (Inv. #: None)(S/N: G012GI08C0032), Sharp LC-70LE661U TV (Inv. #: None)(S/N: 611416391) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+BEP232,(PC only),,None,,,1/3/2019,,,,,,5/18/2018,
+BEP250,1617,N/A,Epson PowerLite G5150 ,0,GOOD,1/3/2019,INC0068264,None,,,,5/18/2018,"System- 
+Components: AMX NXT-CV7 Touchpanel(Inv. #: None)(S/N: 225801XP3050147) and NI-2100 Controller, Extron IN1508 Scaler/Switcher, Toshiba DVD/VCR Combo unit, Sony Back Camera(Inv. #: Black: 18747)(S/N:Not visible), Sony Front Camera(Inv. #: Black: 18746)(S/N: 152194), Insignia NS-LTDVD32-09 TV(Inv. #: Black and White: 17620)(S/N: 8B19A0261AC), Epiphan VGA2USB adapter, Two White Audio-Technica ceiling drop mics, Logitech Webcam | Sources: Computer, Front Camera, Back Camera, DVD/VCR | "
+BEP256,5,,NEC NP-P451W,5,,1/3/2019,INC0097346,QM-RMC,192.168.80.166,,,5/18/2018,"System- 
+Components: XPanel software, Crestron Touchpanel(Model: Verify)(Inv. #: None)(S/N: Verify), ELMO TT-12 Document Camera(Inv. #: None)(S/N: 1316771), HD Logitech HD Webcam | Sources: Computer, Laptop VGA/HDMI, Document Camera |"
+BRB1145,(Display),,TV,,GOOD,5/28/2015,,MPS-100,192.168.80.89,4.003.0015 (Oct 04 2010),,5/18/2018,
+BRB1025,1266,1218,NEC NP-P502WL-2,284 and 284,GOOD,5/14/2019,"INC0105494
+",DMPS3-300-C,192.168.80.10,1.502.3081.24394,,,"System- 
+Components: 
+Crestron- 
+
+? TSW-750-TTK-B-S Touchpanel(6506065) 
+? DMPS3-300-C(Inv. #: None)(S/N: 12625241) 
+? HD-TX3-C-B(Inv. #: None)(S/N: 14140501) 
+? HD-DA2-4K-E(Inv. #: None)(P/N: 6507050)(S/N: 15936993) 
+
+WolfVision VZ-8light Document Camera(Inv. #: None)(S/N: 08 8482), AF CCD preview camera, (2) Epiphan DVI2USB adapters, Sharp LC-70LE661U TV(Inv. #: 25077)(S/N: 511818634), Cisco Catalyst 3560-CG Series PoE Managed Switch(Inv. #: None)(S/N: FOC1643Y0CR), Shure ULXS4 Wireless Mic Rec.(Inv. #: None)(S/N: 1JE2026918), RDL EZ-MPA(S/N: 1097053), Shure ULX1-J1 Lapel mic, Crown Ceiling Mic Logitech clicker | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Preview Camera | "
+BRB1030,1370,1376,NEC NP-P502WL-2,276 and 276,GOOD,5/14/2019,INC0105181,DMPS3-300-C,192.168.80.14,1.503.3332.19705,,,"System- 
+Components: 
+Crestron- 
+? TSW-750-TTK-B-S Touchpanel(6506065) 
+? DMPS3-300-C(Inv. #: None)(P/N: 6506615)(S/N: 12625232) 
+? HD-TX3-C-B(Inv. #: None)(P/N: 6506330)(S/N: 14140525) 
+? HD-DA2-4K-E(Inv. #: None)(P/N: 6507050)(S/N: 15936994)(2251-0C10C) 
+Cisco Catalyst 3560-CG Series PoE Managed Switch(Inv. #: None)(S/N: FOC1644Y0JD), WolfVision VZ-8light Document Camera(Inv. #: 15944)(S/N: 0811736), AF CCD preview camera, (2) Epiphan DVI2USB adapters, Sharp LC-70LE661U TV(Inv. #: 25079)(S/N: 511818636), (2) Shure ULXS4-J1 Receivers (Inv. #s: None and None)(S/Ns: 2LK0792203 and 1JE2026925), RDL EZ-MPA1(Inv. #: None)(S/N: 097053), ULX1-J1 Lapel and handheld SM58 wireless microphones, Crown c-mic, Logitech clicker and webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Camera Controls| "
+BRB1055,1944,1943,NEC NP-P502WL-2,357 and 357,GOOD,5/14/2019,INC0105182,DMPS3-300-C,192.168.80.18,1.503.3332.19705,,,"System- 
+Components: 
+Crestron- 
+? TSW-750-TTK-B-S Touchpanel(6506065), 
+? DMPS3-300-C(Inv. #: None)(P/N: 6506615)(S/N: 12625237) 
+
+CISCO Catalyst 3560-CG Managed Switch(Inv. #: None)(S/N: F0C1642Y1GN), KanexPro 4K HDMI splitter(MPN: SP-HD1X44K), RDL EZ-MPA1 Mic Preamp, (2) Shure ULXS4 Receivers, WolfVision VZ-8plus^2 Doc Cam(Inv. #: Black: 16430 and White: 016430))(S/N: 0850967), PTZ Optics Cam, (2) Epiphan DVI2USB adapters, Sharp LC-70LE661U TV(Inv. #: 25078)(S/N: 511818635), Shure ULX1-J1 and handheld SM58 wireless microphones, Crown c-mic, Logitech clicker | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Camera Controls | "
+BRB2405,800,N/A,Panasonic PT-VZ575N,238,GOOD,5/17/2019,,,,,,5/18/2018,"System- This skills lab has less system components than most classrooms. There is no touchpanel; a projector remote is used. 
+Components: Bogen C-35, VCR | Sources: N/A: Desktop Computer | "
+BRB2410,737,N/A,Panasonic PT-VZ575N,144,GOOD,5/17/2019,,XPA 2001,,,,5/18/2018,"System- This skills lab has less system components than most classrooms. There is no touchpanel; a projector remote is used. The remote has a pair of replacement aaa's in BRB2410 
+Components: Bogen C-35, VCR | Sources: Desktop Computer | "
+BRB2435,92,N/A,Panasonic PT-VZ575N,25,GOOD,5/17/2019,,,,,,5/18/2018,"System- There is less system wise in this lab, the computer is connected directly to the projector and there are no other sources or a connection for a laptop available. 
+Components: Bogen C35 | Sources: N/A (Desktop Computer) | "
+BRB2440,1090,N/A,Panasonic PT-VZ575N,383,GOOD,5/17/2019,,XPA 2001,,,,5/18/2018,"System- This skills lab has less system components than most classrooms. There is no touchpanel; a projector remote is used. 
+Components: XPA2001, VCR, Logitech Orbit Microphone | Sources: Desktop Computer |"
+BRB2490,1228,N/A,SmartUX80,515,GOOD,5/17/2019,,,,,,,"System Functionality: 
+All system components and their respective show/hide buttons are working 
+Audio sounds clear and is loud enough/video quality is good, I was able to view and hear youtube videos on the desktop and laptop sources 
+There aren't any wirless mics or batteries in this room 
+Cables and cabinet are both secured "
+BRB2495,318,N/A,SmartUX80,318,GOOD,8/2/2016,,QM-RMC,192.168.80.171,4.008.0008 (Oct 22 2013),,,
+CAS104,502,N/A,Epson 4750W,0,GOOD,8/2/2018,,MPS-100,192.168.80.75,4.003.0015 (Oct 04 2010),,,
+CAS106,,,,,GOOD, ,,,,,,,
+CAS158,0,,Epson 4300,0,GOOD, ,,MPS-100,192.168.80.62,4.003.0015 (Oct 04 2010),,,
+CAS208,2112,N/A,Epson 4300,0,GOOD,6/25/2018,,MPS-100,192.168.80.56,4.003.0015 (Oct 04 2010),,5/18/2018,
+CAS210,1352,,Panasonic PT-VZ575,163,GOOD,7/21/2017,,QM-RMC,192.168.80.128,4.008.0008 (Oct 22 2013),,5/18/2018,
+CAS212,654,N/A,Panasonic PT-VZ575,285,GOOD,8/4/2017,,QM-RMC,192.168.80.107,4.008.0008 (Oct 22 2013),,5/18/2018,
+CAS257,0,N/A,Panasonic PT-VZ575,545,GOOD,8/10/2017,,QM-RMC,192.168.80.217,4.008.0008 (Oct 22 2013),,5/18/2018,
+CAS258,,N/A,,145,GOOD,,,QM-RMC,192.168.80.64,4.008.0008 (Oct 22 2013),,5/18/2018,
+CAS259,,N/A,,0,GOOD, ,,QM-RMC,192.168.80.29,4.008.0008 (Oct 22 2013),,5/18/2018,
+CAS260,,N/A,,0,GOOD, , ,QM-RMC,192.168.80.58,4.008.0008 (Oct 22 2013),,5/18/2018,
+FAC1009,841,N/A,Epson G5350,0,GOOD,4/12/2019,INC0094272,DMPS3-4K-150-C,192.168.80.152,1.502.3088.20962,,5/18/2018,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(6507727) and DMPS3-4K-150-C(Inv. #: None)(P/N: 6507090)(S/N: 14551142)(Mfg. Date: JUN-16), Cisco WS-C3560CG-8PC-S V03 Managed Switch(Inv. #: None)(S/N: FOC1725Y2DN), LG DVD/VCR Combo Unit(Model: RC797T)(Inv. #: None)(S/N: 712NHZ1352)(Mfg. Date: DEC 2007), WolfVision VZ-8light Document Camera(Inv. #:None )(S/N: None visible), Logitech HD Webcam, Shure ULXS4 Receive w/out lapel mic | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, DVD |"
+FAC1221,0,1207,NEC NP-PA622U,,,6/26/2017,INC0094278,DMPS3-300-C,192.168.80.196,1.502.3175.21489,,5/18/2018,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-300-C(Inv. #: None)(P/N: 6506615)(S/N: 12624595), Cisco WS-C3560-CG-8PC-S Managed Switch(Inv. #: None)(S/N: FOC1729Y4VB), Crown XLC2500 Amp(Inv. #: None)(S/N: 8500967042)(Mfg. Date: 07/07/2014), Elmo TT-12iD Document Camera(Inv. #: None)(S/N: 1320068) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+FAC1222,500,,NEC NP-PA622U,0,,12/5/2018,INC0094274,DMPS3-4K-100-C,192.168.80.239,1.501.2958.31007 (Feb 06 2017),,5/18/2018,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(6507727), DMPS3-4K-100-C(Inv. #: None)(P/N: 6507978)(SN: 15977809)(Mfg. Date: SEP-16), C2N-IO(Inv. #: None)(P/N: 6505209)(S/N: 17700999), DM-RMC-SCALER-C(Inv. #: None)(P/N: 6505405)(S/N: 13362245), Cisco Catalyst WS-C3560CG-8PC-S Series PoE Managed Switch(Inv. #: None)(S/N: FOC1729Y4V6)(Mfg. Date: 20130720), Elmo TT-12ID Doc Cam(Inv. #: None)(S/N: 1320072), Crown XLC2500 Amp(Inv. #: None)(S/N: 8500967229)(Mfg. Date: 07/07/2014)| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, iPod Audio | "
+FAC2006,1794,N/A,Panasonic PT-VZ575N,0,GOOD,4/12/2019,"INC0105288
+",DMPS3-4K-100-C,192.168.80.136,1.501.2958.31007 (Feb 06 2017),,5/18/2018,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(6507727) and DMPS3-4K-100-C, WoflVision VZ-8light^3 Document Camera(Inv. #: Black and White: 18745)(S/N: 1021704), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, IPOD AUDIO | "
+HPC2185,1071,N/A,Epson 4200W,,GOOD,7/27/2018,,MPC-M5,192.168.80.80,,,5/18/2018,
+HPC2255,1856,N/A,NEC NP-P502WL-2,0,GOOD,6/6/2019,INC0124023,DMPS3-200-C,192.168.80.184,1.501.2843.20911,,5/18/2018,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-200-C, Canon Visualizer RE-450X Document Camera(Inv.#: None)(S/N: 2630000282), Epiphan DVI2USB and SDI2USB adapters, Crown ceiling microphone, LG 60LX341C TV(Inv. #: None)(S/N: 511RMLM3N720), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPC3010,1415,N/A,NEC NP-P502WL-2 Laser,0,GOOD,4/12/2019,"INC0105291
+",DMPS3-4K-150-C,192.168.80.214,1.502.3205.17254,,5/18/2018,"System- 
+Components: Crestron DMPS3-4k-150-C(Inv. #: None)(S/N: 14367117), TSW-750-TTK-B-S Touchpanel(6506065), HD-DA-2(Inv. #: None)(S/N: 13771482), and MP-AMP30, CISCO Catalyst 3560-cg managed switch, Delvcam VGA & monitor confidence monitor(619160015), Canon Visualizer RE-450X Document Camera(Inv. #: None)(S/N: 2880110055), Crown ceiling mic, Marshall ceiling cam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPC3035,110,N/A,Epson 6110i,110,GOOD,2/20/2018,Old/Not used,,,,,5/18/2018,
+HPC3055,1419,N/A,NEC NP-P502WL-2 Laser,0,GOOD,4/12/2019,,DMPS3-200-C,192.168.80.161,1.502.3175.21489,,,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-200-C(Inv. #: None)(S/N: 12036969)(P/N: 6506614), Cisco Managed Switch(Model: Catalyst 3560-CG)(Inv. #: None)(S/N: F0C1729Y02F), J-Tech Digital 1x4 HDMI Splitter(Model: JTD0104/4K), Kramer PT-571 HDMI Line Transmitter, QSC Direct 70V Amp(Model: CX240V)(S/N: 060452173), RDL EZ-MPA1 Mic Preamp, WolfVision VZ-8light Document Camera(Inv. #: None)(S/N: 089289), Epiphan SDI and DVI 2USB adapters, Crown Ceiling Mic, Marshall Ceiling Cam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR132,(PC Only),,None,,,?,,,,,,5/18/2018,
+HPR134,TV,N/A,TV,0,GOOD,5/15/2019,INC0105492,DMPS3-4K-100-C,10.20.12.12,1.501.2958.31007 (Feb 06 2017),,5/18/2018,"System- 
+Components: 
+Crestron- 
+? TSW-760-B-S Touchpanel(6507727) 
+? DMPS3-4K-100-C(Inv. #: None)(S/N: 15977845)(Mfg. Date: SEP-16) 
+? HD-DA-2(Inv. #: None)(S/N: 13771565) 
+? MP-AMP30(Inv. #: None)(S/N: 16712162) 
+SMART SDC-330, Doc Cam(Inv. #: None)(S/N: E01B034202)(Mfg. Date: DEC2010), Cisco Catalyst 3560-CG Series PoE Managed Switch(Inv. #: None)(S/N: FOC1728Y5Y0)(Mfg. Date: 20130714)(HPR-134-ITV), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam |"
+HPR135,3493,N/A,Panasonic PT-VZ575N,0,GOOD,5/15/2019,"INC0105496
+",DMPS3-4K-100-C,192.168.80.134,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-4K-150-C(Inv. #: None)(S/N: 15630402)(Mfg. Date: JUN-16) 
+Cisco Catalyst 3560-CG-8PC-S Series PoE Managed Switch(Inv. #: None)(S/N: FOC1727YOWV)(Mfg. Date: 20130720), Smart Board 800, CAT5-XT-1100(S/N: J012HW21A0620)(Mfg. Date: 2015/21), AudioSource Amp 100(Inv. #: None)(S/N: 1004807), WolfVision VZ-8plus^2 Document Camera(Inv. #: Black and White: 16429)(S/N: 0850968), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR146,Old/Not used,N/A,3M MP-8670,?,GOOD,5/26/2015,Old/Not used,,,,,5/18/2018,
+HPR235,744,N/A,Epson 6100i,169,GOOD,5/15/2019,,,,,,,"System- The system in this room is minimal 
+Components: Computer, Projector, Logitech Webcam | Sources: N/A / Computer | "
+HPR247,3772,N/A,Panasonic PT-VZ575N,1989,GOOD,5/17/2019,,DMPS3-4K-100-C,192.168.80.102,1.502.3205.17254 (Oct 11 2017),,5/18/2018,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel and DMPS3-4K-150-C, Canon RE-450X Doc Cam(Inv. #: None)(S/N: 2670110095), Epiphan DVI and SDI 2 USB adapters, Marshall Ceiling Cam, Crown Ceiling Mic, Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR248,0,N/A,Panasonic PT-VZ575N,0,GOOD,5/17/2019,,VP-770,192.168.80.159,4.003.0015 (Oct 04 2010),,,"System- This room has less than other classrooms 
+Components: Crestron MPS-100, XPanel, desk-top speakers, Epson projector remote, Logitech Webcam | Sources: Computer, Laptop | "
+HPR251,1944,N/A,NEC NP-P502WL-2 Laser ,0,GOOD,5/15/2019,INC0094293,DMPS3-200-C,192.168.80.81,1.501.2958.31007,,,"System- 
+Components: Crestron DMPS3-4k-150-C(Inv. #: None)(S/N: 14366412)(Mfg. Date: Dec-15), HD-DA-2(Inv. #: None)(S/N: 13770907), and TSW-750-TTK-B-S Touchpanel(6506065), Cisco Catalyst 3560-CG Series PoE Managed Switch(Inv. #: None)(S/N: FOC1652Y4HJ), Delvcam Confidence Monitor(619160035), Epson ELPDC05 Document Camera(Inv. #: Black and White: 16633)(S/N: FYZ0764081), QSC ISA300T(Inv. #: None)(S/N: 070327741), RDL EZ-MPA1(097640), Crown Ceiling Mic, Marshall Ceiling Cam, Logitech Webcam, Epiphan SDI and DVI to USB3.0 adapters for the ceiling cam and content | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR252,4002,N/A,NEC NP-P502WL-2 Laser,0,GOOD,5/15/2019,,DMPS3-4K-150-C,192.168.80.69,1.501.2958.31007,,,"System- 
+Components: Crestron TSW-750-TTK-B-S(65006065) Touchpanel and DMPS3-4K-150-C, Delvcam Confidence monitor(619160157), Epson ELPDC05 Document Camera(Inv. #: Black and White: 15781)(S/N: FYZ05Y1722), RDL EZ-MPA1, Crown Ceiling Mic, Logitech Webcam, Epiphan SDI and DVI to USB3.0 adapters for ceiling cam and content | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR253,5247,N/A,Panasonic PT-VZ575N,0,GOOD,6/11/2019,INC0124395,DMPS3-4K-150-C,192.168.80.31,1.501.2958.31007,,5/18/2018,"System- 
+Components: 
+Crestron 
+? TSW-750-TTK-B-S Touchpanel(6506065) 
+? DMPS3-4k-150-C(Inv. #: None)(P/N: 6507090)(S/N: 13406471)(Mfg. Date: JAN-16) 
+? HD-DA-2(Inv. #: None)(P/N: 6503809)(S/N: 13771382)(PW-2407WU) 
+? MP-AMP30(Inv. #: None)(P/N: 6503723)(S/N: 14474836)(PW-2420RU) 
+
+Cisco Catalyst WS-C3560CG-8PC-S PoE Managed Switch(Inv. #: None)(S/N: FOC1729Y4U4), Delvcam Confidence Monitor(619160035), Epson ELPDC05 Document Camera(Inv. #: Black: 15782 and White: 015782)(S/N: FYZ05Y1717), Crown Ceiling Mic, RDL EZ-MPA1 Mic Preamp(303 100293), Marshall Ceiling Cam, Logitech Webcam, Epiphan SDI and DVI to USB3.0 adapters for the ceiling cam and content | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR256,3601,N/A,Panasonic PT-VZ575,0,,1/8/2019,,,,,,,
+HPR261,454,,Epson 6100i,0 (Was 136),GOOD,6/7/2018,,,,,,5/18/2018,"System- This room has less components than most classrooms, there is not a touchpanel or cables for a laptop 
+Components: Sony EVI-D100 back camera(No Inv. #)(S/N: Not visible), Crown ceiling mic, desk-top harman/kardon speakers "
+HPR262,2572,N/A,NEC NP-P502WL-2,0,GOOD,6/11/2019,INC0124384,DMPS3-4K-150-C,192.168.80.66,1.501.2958.31007,,5/18/2018,"System- 
+Components: 
+
+Crestron- 
+? TSW-750-TTK-B-S Touchpanel (6506065) 
+? DMPS3-4K-150-C Control System (Inv. #: None)(P/N: 6507090)(S/N: 14366432)(Mfg. Date: DEC-15) 
+? HD-DA-2 Distr. Amp. (Inv. #: None)(P/N: 6503809)(S/N: 13771467) 
+? MP-AMP30 Amp. (Inv. #: None)(P/N: 6503723)(S/N: 14474837)(PW-2420RU) 
+Cisco WS-C3560CG-8PC-S Managed Switch(Inv. #: None)(S/N: FOC1729Y417), Epson ELPDC05 Document Camera(Inv. #: Black and White: 015591)(S/N: FYZ05Z2064), Delvcam VGA Confidence monitor, Logitech Webcam, Crown ceiling microphone, RDL EZ-MPA1 Mic PreAmp, Epiphan SDI2USB 3.0 adapter for the Sony Ceiling camera and DVI2USB 3.0 for content| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+HPR275,3789,N/A,Panasonic PT-VZ575N,466,GOOD,5/16/2019,INC0094284,QM-RMC,192.168.80.60,1.503.3318.26859,,5/18/2018,"System- 
+Components: Crestron RMC3(P/N: 6505761)(S/N: 14730646), Extron XPA2001-70V(S/N: A0N4JF3E24624A2812PO216771), Kramer VP-440(S/N: 11158025900233), Cisco WS-C3560CG-8PC-S Managed Switch(Inv. #: None)(S/N: FOC1729Y03W), Epson ELPDC05 Doc Cam(Inv. #: Black: 15589 and White: 015589)(S/N: FYZ05Z1997) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+LIB202,(Display),,None,,,?,,,,,,5/18/2018,
+LIB401,1075,N/A,Epson 6110i,380,GOOD,5/2/2017,,,,,,,"System- 
+Components: AMX NXT-CV10 Touchpanel(No Inv. #)(S/N: 225901XP1460161), Extron MLS 406 Switcher, Shure ULXP4, Canon VIsualizer RE-450X Doc Cam(No Inv. #)(S/N: 2830110304), Toshiba DVD/VCR combo unit, A Shure ULX1-G3 and SM58 Wireless microphones | Sources: Laptop(occupied), Doc Cam, DVD/VCD | "
+LIB422,?,,Epson PowerLite 830p,?,,?,,,,,,5/18/2018,
+ORN103,(Display),,TV,0,GOOD,11/12/2015,,,,,,5/18/2018,
+PHE110,935,,Epson 6100i,535,GOOD,9/29/2017,,,,,,,"System- 
+Components: Extron AAP 102 Wallplate and AMX touchpanel, JVC DR-MV77 DVD/VCR Combo Unit, SmartBoard SB680 (Inv. #: None)(S/N: 324674)(Mfg. Date: 2007), LG 60PB 660 TV (Inv. #: None)(S/N: 405RMFP66659)(Mfg. Date: May, 2014) "
+RBN1007,2195,N/A,Epson 6100i,251,GOOD,8/22/2017,,,,,,,"System- 
+Components: Crestron TPS-3000 Touchpanel(Inv. #: None)(S/N: 65001883138108) and MPS-100, WolfVision VZ-8plus^2 Document Camera(Inv. #: Black and White: 17125)(S/N: 1003039), Crown PCC 170SW0 Microphone (""MIC 15"" Label), JVC DR-MV77 DVD/VCR combo unit | Sources: LAPTOP, VCR, DVD, DOC CAM, PC | "
+RBN1035,(Display),,(Display),,,1/9/2019,,,,,,,
+RBN1039,632,N/A,Epson 6100i,0,GOOD,7/31/2018,,,,,,,"System- 
+Components: Crestron TPS-3000 Touchpanel and MPS-100, JVCDR-MV77 VCR/DVD Combo Unit(unused), WolfVision VZ-8plus^2 Document Camera(Inv. #: Black and White: 17123)(S/N: 1003037), Crown PCC 170SWO microphone| Sources: Computer, Laptop VGA, Doc Cam | "
+RBN2007,3997,N/A,NEC NP-P502WL-2,0,GOOD,1/9/2019,,DMPS3-4K-100-C,192.168.80.198,Current Version: 1.502.3205.17254,,,"System- 
+Components: Crestron DMPS3-4K-150-C and TSW-750-TTK-B-S Touchpanel (6506065), Delvcam confidence VGA monitor (619160020), WolfVision VZ-8plus^2 Document Camera (Inv. #s: Both Black and White: 16432)(Serial No.: 0850964), Epiphan DVI2USB and SDI2USB adapters, Sony ceiling camera and Crown ceiling microphone, Logitech webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN2009,(Display),N/A,(Display),,,1/9/2019,,DMPS3-4K-100-C,10.20.14.22,Current Version: 1.501.2958.31007 (Feb 06 2017),,,"System- This room is different from other conference rooms, the computer is only connected to the SmartBoard and the projector is only connected with a laptop source 
+Components: Crestron wallplate | Sources: Laptop | "
+RBN2011,1010,,NEC NP-P502WL-2,0,GOOD,1/9/2019,,DMPS3-4K-150-C,192.168.80.205,Current Version: 1.502.3205.17254,,,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065), DMPS3-4K-150-C(Inv. #: None)(P/N: 6507090)(S/N: 14366436)(Mfg. Date: DEC-15), MP-AMP30 2Ch.15W(Inv. #: None)(M/N: PW-2420RU)(P/N: 6503723)(S/N: 14475208), HD-DA-2 Distr. Amp(Inv. #: None)(P/N: 6503809)(S/N: 13771171), Cisco Catalyst 3560-CG Series PoE Mgd. Switch(Inv. #: None)(M/N: WS-C3560CG-8PC-S V03)(S/N: FOC1728Y6M1)(Mfg. Date: 20130714), RDL EZ-MPA1 Preamp(Inv. #: None)(101538), Delvcam Confidence monitor, WolfVision VZ-8plus^2 Document Camera(Inv. #: Black and White: 17003)(S/N: 1000862), Crown ceiling microphone, Marshall Ceiling Camera, Epiphan DVI2USB and SDI2USB adapters for content and ceiling camera, Logitech webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN2012,1069,,NEC NP-P502WL-2,0,GOOD,1/9/2019,,DMPS3-4K-150-C,192.168.80.208,Current Version: 1.502.3205.17254,,,"System- 
+Components: Crestron TSW-750-TTK-B-S(6506065)Touchpanel and DMPS3-4K-150-C, DelvCam Confidence Monitor, Epson ELPDC05 Document Camera(Inv. #: Black and White: 15588)(S/N:FYZ05Y1733), Crown Ceiling Microphone, Marshall Ceiling Camera, Logitech Webcam, Epiphan DVI and SDI2USB3.0 adapters, | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN2021,3637,N/A,Panasonic PT-VZ575N,0,GOOD,4/4/2019,,DMPS3-200-C,192.168.71.28,Verify,,5/18/2018,"System- 
+Components: Crestron Touchpanel and MPS-100, WolfVision VZ-8plus^2 Doc Cam, VC DR-MV77, 20A Juice Goose, Network Camera W40, Logitech Webcam | Sources: LAPTOP, VCR, DVD, DOC CAM, PC| "
+RBN2022,173,N/A,Epson 6100i,0,GOOD,11/5/2018,,MPS-100,192.168.71.38,Verify,,5/18/2018,"System- 
+Components: Crestron Touchpanel and MPS100, WolfVision VZ-8plus^2 Doc Cam, JVC DR-MV77, 20A Juice Goose, Network Camera W40, Logitech Webcam | Sources: Laptop, VCR/DVD, DOC CAM, PC| "
+RBN2024,3591,N/A,Epson 6100i,0,GOOD,11/5/2018,,MPS-100,192.168.71.10,Verify,,5/18/2018,"System- 
+Components: Crestron Touchpanel and MPS100, WolfVision VZ-8plus^2 Doc Cam, JVC DR-MV77, 20A Juice Goose, Network Camera W40, Logitech Webcam | Sources: Laptop, VCR/DVD, DOC CAM, PC| "
+RBN2025,2705,I,Epson 6100i,0,GOOD,11/5/2018,,MPS-100,192.168.71.29,Verify,,5/18/2018,"System-
+Components: Crestron TPS-3000 Touchpanel and MPS-100, Epson ELPDC05 Document Camera(Inv. #: Black and White: 17015)(S/N: FYZ0774165), JVC MV-77 VCR/DVD Combo Unit, Logitech HD Webcam | Sources: LAPTOP, VCR, DVD, DOC CAM, PC | "
+RBN2028,3163,N/A,Epson 6100i,0,GOOD,11/5/2018,,MPS-100,192.168.80.169,Current Version: 4.003.0015 (Oct 04 2010),,,"System- 
+Components: Crestron Touchpanel and MPS100, WolfVision VZ-8plus^2 Doc Cam, JVC DR-MV79, 20A Juice Goose, Logitech Webcam | Sources: Computer, Laptop VGA, Doc Cam| "
+RBN2032,3162,N/A,Epson 6100i,0,GOOD,7/31/2018,,MPS-100,192.168.71.11,Verify,,,"System-
+Components:Crestron TPS-3000 touchpanel, JVC DR-MV77 DVD/VCR combo unit(disconnected) | Sources: VCR, DVD, PC |"
+RBN2033,3867,N/A,Epson 6100i,0,GOOD,7/31/2018,,MPS-100,192.168.71.12,Verify,,,"System-
+Components:Crestron TPS-3000 touchpanel, JVC DR-MV77 DVD/VCR combo unit(disconnected) | Sources: VCR, DVD, PC | "
+RBN2035,413,N/A,Epson 6100i,0,GOOD,7/31/2018,,MPS-100,192.168.71.7,Verify,,,"System- 
+Components: Crestron Touchpanel and MPS100, WolfVision VZ-8plus^2 Doc Cam, JVC DR-MV77, 20A Juice Goose, Network Camera W40, Logitech Webcam | Sources: Laptop, VCR/DVD, DOC CAM, PC| "
+RBN2046,81,N/A,Epson 6100i,10,GOOD,1/10/2018,,MPS-100,192.168.71.6,Verify,,5/18/2018,"System- 
+Components: Crestron TPS-3000 Touchpanel and MPS-100, WolfVision VZ-8plus^2 Document Camera(Inv. #: Black and White: 17002 )(S/N: 1000865), JVC DR-MV77 DVD/VCR Combo Unit, Logitech Webcam, Crown PCC 170SWO Microphone, Logitech Webcam | Sources: LAPTOP, VCR, DVD, DOC CAM, PC | "
+RBN3032,(PC Only),,(PC Only),,,?,,,,,,,
+RBN3035,1334,1336,Panasonic PT-VZ575N,363,BAD,5/13/2019,,DMPS3-300-C,192.168.80.190,Current Version: 1.502.3081.24394,,,"System- 
+Components: Crestron DMPS3-300-C and TSW-750-TTK-B-S Touchpanel(65065), WolfVision VZ-8plus^2 Document Camera(Inv. #s: Black and White: 17011)(S/N: 1000864), Ceiling Preview Camera(Inv. #s: Black and White: 16812)(S/N: is not visible), LG 60LX341C TV(Inv. #: None)(S/N: 511RMLM3N768), (2) Epiphan DVI2USB adapters, Crown ceiling microphone, Shure ULX1-G3 Wireless Microphone | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Preview Camera | "
+RBN3038,2036,0,Panasonic PT-VZ575N,0,GOOD,,,DMPS3-4K-150-C,10.20.14.10,Current Version: 1.501.2958.31007,,,"System- 
+Components: Crestron Touchpanel and MPS-100, Epson ELPC05 Doc Cam, VC DR-MV77, 20A Juice Goose, Network Camera W40, Logitech Webcam | Sources: LAPTOP, VCR, DVD, DOC CAM, PC| "
+RBN3039,3467,,Panasonic PT-VZ575N,0,GOOD,,,DMPS3-4K-150-C,10.20.14.13,Current Version: 1.502.3175.24468,,,"System- 
+Components: Crestron DMPS3-300-C and TSW-750-TTK-B-S Touchpanel(65065), WolfVision VZ-8plus^2 Document Camera(Inv. #s: Black and White: 17011)(S/N: 1000864), Ceiling Preview Camera(Inv. #s: Black and White: 16812)(S/N: is not visible), LG 60LX341C TV(Inv. #: None)(S/N: 511RMLM3N768), (2) Epiphan DVI2USB adapters, Crown ceiling microphone, Shure ULX1-G3 Wireless Microphone | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Preview Camera | "
+RBN3040,1821,0,Panasonic PT-VZ575N,0,GOOD,,,DMPS3-4K-150-C,10.20.14.16,Current Version: 1.502.3175.24468,,,"System- 
+Components: Crestron TSW-760-TTK-B-S (6507727) Touchpanel and DMPS3-4K-150-C, Epson ELPDC05 Document Camera(Inv. #: Black and White: 17016)(S/N: FYZ0764084) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN3041,339,0,Panasonic PT-VZ575,0,GOOD,,,DMPS3-4K-150-C,10.20.14.19,Current Version: 1.501.2958.31007,,5/18/2018,"System- 
+Components: Crestron TSW-760-TTK-B-S (6507727) Touchpanel and DMPS3-4K-150-C, Epson ELPDC05 Document Camera(Inv. #: Black and White: 15473)(S/N: FYZ0581223) | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN3047,1089,,Epson 6100i,0,,,,QM-RMCRXBA,192.168.71.58,Verify,,5/18/2018,"System- This room has less in it than others, there is not a desktop computer 
+Components: older Crestron Wallplate | Sources: Laptop | "
+RBN4019,1,,NEC NP-P502WL-2,0,GOOD,,,DMPS3-200-C,10.20.14.24,Current Version: 1.503.3332.19705,,5/18/2018,"System- 
+Components: Crestron Touchpanel and MPS-100, WolfVision VZ-8plus^2 Doc Cam, JVC DR-MV77, 20A Juice Goose, Network Camera W40, AT microphone | Sources: LAPTOP VCR, DVD, DOC CAM, PC| "
+RBN4024,1347,N/A,Panasonic PT-VZ575,0,BAD,6/19/2019,INC0125290,DMPS3-4K-150-C,192.168.80.187,Current Version: 1.501.2958.31007,,5/18/2018,"System- 
+Components: 
+Crestron 
+? TSW-750-TTK-B-S Touchpanel(6506065) 
+? DMPS3-4k-150-C(Inv. #: None)(P/N: 6507090)(S/N: 14366492)(Mfg. Date: DEC-16) 
+? HD-DA-2(Inv. #: None)(P/N: 6503809)(S/N: 13771432)(PW-2407WU) 
+? MP-AMP30(Inv. #: None)(P/N: 6503723)(S/N: 14475195)(PW-2420RU) 
+
+Cisco Catalyst WS-C3560CG-8PC-S PoE Managed Switch(Inv. #: None)(S/N: FOC1729Y96M), Delvcam Confidence Monitor(619160035), WolfVision VZ-8 Document Camera(Inv. #: )(S/N: 1087599), Crown Ceiling Mic, RDL EZ-MPA1 Mic Preamp(303 100293), Marshall Ceiling Cam, Logitech Webcam, Epiphan SDI and DVI to USB3.0 adapters for the ceiling cam and content, IIIP Drawing Tablet | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN4025,4424,N/A,Panasonic PT-VZ575,0,BAD,,,DMPS3-4K-150-C,192.168.80.174,Current Version: 1.501.2958.31007,,5/18/2018,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and DMPS3-4K-150-C, DelvCam Confidence Monitor, Epson ELPDC05 Document Camera(Inv. #: Red: ITV-6000)(S/N: FYZ04Y0539), Crown Ceiling Microphone, Marshall Ceiling Camera, Logitech Webcam, Epiphan DVI and SDI to USB3.0 adapters for content and ceiling camera respectively | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN4027,1,N/A,NEC NP-P502WL-2,0,GOOD,,,MPS-100,192.168.80.119,Current Version: 4.003.0015 (Oct 04 2010),,,"System- 
+Components: Crestron Touchpanel and MPS-100, Delvcam, WolfVision VZ-8plus^2 Doc Cam, 20A Juice Goose, W40 Network Camera, AT microphone | Sources: Computer, Laptop VGA, Doc Cam "
+RBN4032,2449,N/A,NEC NP-P502WL-2,0,GOOD,6/19/2019,INC0125269,DMPS3-4K-150-C,192.168.80.155,Current Version: 4.003.0015 (Oct 04 2010),,5/18/2018,"System- 
+Components: 
+Crestron 
+? TSW-750-TTK-B-S Touchpanel(6507727) 
+? DMPS3-4k-150-C(Inv. #: None)(P/N: 6507090)(S/N: 1832JBH04295)(Mfg. Date: AUG-18) 
+
+Cisco Catalyst WS-C3560CG-8PC-S PoE Managed Switch(Inv. #: None)(S/N: FOC12729YU5R), WolfVision VZ-8 Document Camera(Inv. #: )(S/N: 1087599), Logitech Webcam, Extron VGA distribution amplifier, Wacom Tablet | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN4034,2,,NEC NP-P502WL-2,0,GOOD,,,MPS-100,10.20.14.28,Current Version: 4.003.0015 (Oct 04 2010),,5/18/2018,"System- 
+Components: Crestron MPS-100(Inv. #: None)(S/N: 6501001 and 3212625) and TSW-760-TTK-B-S Touchpanel (6507727), Crestron DM-TX-4k-302-C Transmitter(Inv. #: None)(S/N: PN: 6507319, S/N: 16985317), WolfVision VZ-8Plus^2 Doc Cam(Inv. #: Black: 17126 and White: 017126)(S/N: 1003040), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBN4039,1083,,Epson 6100i,14,,,,QM-RMCRXBA,192.168.71.13,Verify,,5/18/2018,"System- 
+Components: Crestron wallplate touchpanel and QM-TX, Wacom DTZ-1200W Tablet(Manuf.: MAY 2008)(S/N: 8EC000398), Logitech Webcam(disconnected)| Sources: Laptop | "
+RBS1024,277,,Smart 60WI,0,GOOD,,,,,,,5/18/2018,"System- 
+Components: AMX wallplate style touchpanel, Sony KDL-52W3000 TV(Inv. #: White: 17484)(S/N: 8169951)(Manuf.: February 2008), Disconnected Epson ELPDC05 Document Camera(Inv. #: Red: ITV-6009)(S/N: FYZ04Y0542), Logitech Webcam | Sources: N/A | "
+RBS1031,2831,N/A,Panasonic PT-VZ575,252,GOOD,8/22/2017,,DMPS3-4K-150-C,192.168.80.25,Current Version: 1.501.2958.31007,,5/18/2018,"System- 
+Components: Crestron Touchpanel and DMPS3-4K-150-C, WolfVision VZ-8plus^2 Doc Cam (Inv. #: 16433), Delvcam, SDI2USB3.0 cam, 20A Juice Goose, Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam|"
+RBS1032,(PC Only),,(PC Only),,,?,,,,,,5/18/2018,
+RBS2006,(Displays),,(LCD Displays),,,?,,DMPS3-300-C,192.168.80.3,Current Version: 1.501.2843.20911,,,
+RBS2015,1264,N/A,Panasonic PT-VZ575N,0,GOOD,1/11/2019,,DMPS3-4K-150-C,192.168.80.94,Current Version: 1.501.2958.31007,,,"System- 
+Components: Crestron TSW-760-TTK-B-S Touchpanel(6507727) and DMPS3-4K-150-C, WolfVision VZ-8light Doc Cam (Inv. #: Black: 15941)( S/N: 0811738), Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+RBS2019,3676,N/A,Panasonic PT-VZ575,0,GOOD,1/11/2019,,DMPS3-4K-150-C,192.168.80.211,Current Verison: 1.502.3088.20962,,5/18/2018,"System- 
+Components: Crestron Touchpanel and DMPS3-4k-150-C, WolfVision VZ-8light Doc Cam, 20A Juice Goose, SDI2USB3.0 Camera, DVI2USB3.0, Logitech Webcam| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam |"
+RBS2023,162,N/A,Epson PowerLite 965H,0,GOOD,8/24/2017,,MPS-100,192.168.80.42,Current Version: 4.003.0015 (Oct 04 2010),,,"System- 
+Components: Crestron TSW-750-TTK-B-S Touchpanel(6506065) and MPS-100, Panasonic AG-VP320 VCR/DVD combo unit, Sony EVI-D100C Camera (Inv. #: 15950)(S/N: 201443), Crown Ceiling Microphone, Epiphan VGA2USB adapter | Sources: Computer, Laptop/VGA, DVD/VCR COMBO, Camera Preview | "
+RBS2024,2568,2387,Panasonic PT-VZ575,288,GOOD,8/17/2017,,DMPS3-4K-150-C,192.168.80.201,Current Version: 1.502.3081.24394,,5/18/2018,"System- 
+Components: Crestron DMPS3-300-C and TSW-750-TTK-B-S Touchpanel(6506065), WolfVision VZ-8light^3 Document Camera(Inv. #: Black and White: 18697)(S/N: 1020650), Sony EVI-D30 Ceiling Camera(Inv. #: None)(S/N: 176686), Crown Ceiling Microphone, LG 60LX341C TV(Inv. #: None)(S/N: 511RMTT3N769), (2) Epiphan DVI2USB3.0 adapters, Shure ULX1-G3 Wireless Microphone | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam, Preview Camera | "
+LUC113,,,,,,,,,,,,5/18/2018,
+LUC206,,,,,,,,,,,,5/18/2018,
+LUC207,,,,,,,,,,,,5/18/2018,
+LUC211,,,,,,,,,,,,5/18/2018,
+PAL102,,,,,,,,,,,,5/18/2018,
+PAL208,,,,,,,,,,,,5/18/2018,
+PAL209,,,,,,,,,,,,5/18/2018,
+PAL210,,,,,,,,,,,,5/18/2018,
+PAL211,,,,,,,,,,,,5/18/2018,
+PAL212,,,,,,,,,,,,5/18/2018,
+RBS4015,71,71,Panasonic PT-D5600U,,GOOD,,,,,,,5/18/2018,"System- 
+Components: Extron RGB 464xi wallplate | Sources: N/A | "
+STE127,0,N/A,Epson G6900wu,0,GOOD,2/22/2019,,CP3/DM-MD8X8 | TSW-760,192.168.80.140 | 192.168.80.141,1.501.2867.24563 | 2.001.0040,,5/18/2018,
+STE202,N/A,N/A,N/A,N\A,N/A,,,DMPS3-300-C | TSW-760,10.20.12.14 | 10.20.12.15,1.502.3081.24394 | 1.002.0031,,5/18/2018,
+STE301,382,N/A,Panasonic PT-EZ590,373,GOOD,8/23/2017,,DMPS3-300-C,192.168.80.44,1.501.2843.20911,,5/18/2018,
+STE324,TV,,(Display),,,8/16/2017,,DMPS3-200-C,192.168.80.35,1.502.3081.24394,,,
+UC3114,TV,,(Display),,,?,,,,,,?,
+USC118,0,,NEC NP-P502WL-2,0,,,,,,,,,
+COB103,1644,1643,NEC NP-PA803UL,N/A,GOOD,5/20/2019,INC0123375,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1803JBH13503) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(Mfg. Date: 20180620), AudioSource Amp-2210T(Inv. #: None)(S/N: 1742NEJ04954), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1405394), Sharp PN-LE601 TV (S/N: 803611496), Shure SM58 Handheld mic, Shure QLXD1 Lapel Mic, Shure QLXD4 Wireless Mic Rec., SerialComm Serial Port Isolator, (2)Logitech Clicker, Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB111,1225,1222,NEC NP-PA803UL,N/A,GOOD,5/20/2019,INC0123049,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1803JBH12952) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: FOC2225Y2NH)(Mfg. Date: 20180620), AudioSource Amp-2210T(Inv. #: None)(S/N: 1748NEJ04694), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406892), Sharp PN-LE601 TV (S/N: 803611494) ,PTZ Optics Camera, (2)Crown Ceiling Mic, Shure SM58 Handheld mic, Shure QLXD1 Lapel Mic, Shure QLXD4 Wireless Mic Rec., BlackMagic SDI to HDMI convertor, Epiphan Video, SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB112,2019,1969,NEC NP-PA803UL,N/A,GOOD,5/21/2019,INC0122954,DM-MD8X8,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DM-MD8X8 (Inv. #: None)(S/N: 1806JBH10148)(Mfg. Date: FEB-18) 
+? (2) DM-TX-201-C (Inv. # None)(S/N: 1747JBH06304 and 1748JBH10072) 
+? DM-PSU-8 (S/N: 1808CRR02011) 
+? CP3N (S/N: 1811JBH06573) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: F0C2225Y2LJ)(Mfg. Date: 20180620), AudioSource Amp-2210T(Inv. #: None)(S/N: 1742NEJ04956), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406868), Sharp PN-LE601 TV (S/N: 803611525) ,PTZ Optics Camera, Crown Ceiling Mic, Shure SM58 Handheld mic, Shure QLXD1 Lapel Mic, Shure ULXS4 Wireless Mic Rec., BlackMagic SDI to HDMI convertor, Epiphan Video | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB124,,,,,,,,,,,,,
+COB152,,,,,,,,,,,,,
+COB162,,,,,,,,,,,,,
+COB180,1348,1342,Panasonic PT-RW930,N/A,GOOD,5/30/2019,INC0123375,DM-RMC-4K-SCALER-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1803JBH13503) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(Mfg. Date: 20180620), AudioSource Amp-2210T(Inv. #: None)(S/N: 1742NEJ04954), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1405394), Sharp PN-LE601 TV (S/N: 803611496), Shure SM58 Handheld mic, Shure QLXD1 Lapel Mic, Shure QLXD4 Wireless Mic Rec., SerialComm Serial Port Isolator, (2)Logitech Clicker, Logitech Webcam | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB203,,,,,,,,,,,,,
+COB207,1010,1007,NEC NP-P502WL-2,N/A,GOOD,5/20/2019,INC0123405,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1746JBH07231) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1405516), Sharp PN-LE601 TV (S/N: 803611497), Shure SM58 Handheld mic, Shure SLX1 Lapel Mic, Shure SLX4 Wireless Mic Rec., SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB211,2234,2234,NEC NP-P502WL-2,N/A,GOOD,5/20/2019,INC0123184,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1746JBH07231) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: F0C2225Y2LR)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 14055176), Sharp PN-LE601 TV (S/N: 803611497), Shure SLX1 G4 Lapel Mic, Shure SM58 Handheld Mic, Shure SLX4 wireless mic rec., SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB212,1071,1062,NEC NP-P502WL-2,N/A,GOOD,5/21/2019,INC0123061,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1803JBH12279) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406897), Sharp PN-LE601 TV (S/N: 802614707) , , Shure SM58 Handheld mic, Shure SLX1 Lapel Mic, Shure SLX4 Wireless Mic Rec., Logitech Clicker, SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB214,1550,1610,NEC NP-P502WL-2,N/A,GOOD,5/21/2019,INC0123169,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1745JBH07171) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: F0C2225Y2L9)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406891), Sharp PN-LE601 TV (S/N: 803611498), Shure SLX1 G4 Lapel Mic, Shure SM58 Handheld Mic, Shure SLX4 wireless mic rec., Logitech Clicker, SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam |"
+COB225,,,,,,,,,,,,,
+COB229,3175,N/A,Panasonic PT-VZ575N,192,GOOD,5/21/2019,INC0123161,VP-770,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? VP-770 
+? QM-RMC 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: FOC2225Y2LN)(Mfg. Date: 20180620), EPSON ELPDC05 Document Camera(Inv. #: White and Black: 015587)(S/N: FYZ05Z2003), Logitech WebCam| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB251,1033,313,NEC NP-P502WL-2,N/A,GOOD,5/23/2019,INC0122983,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1806JBH10148) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: F0C2225Y2L2)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406652), Sharp PN-LE601 TV (S/N: 803613229) , Logictech Web Cam, SerialComm Serial Port Isolator| Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB255,905,920,NEC NP-P502WL-2,N/A,GOOD,5/23/2019,INC0122992,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1806JBH13075) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: F0C2225Y2NK)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406871), Sharp PN-LE601 TV (S/N: 803613232), Shure SLX1 G4 Lapel Mic, Shure SM58 Handheld Mic, Shure SLX4 wireless mic rec., SerialComm Serial Port Isolator | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB259,asdfasd,,,,,,,,,,,,
+COB307,,,,,,,,,,,,,
+COB312.04,,,,,,,,,,,,,
+COB321,854,855,NEC NP-P502WL-2,N/A,GOOD,5/29/2019,INC0123199,DMPS3-300-C,,,,,"System- 
+Components: 
+Crestron- 
+? TSW-760-TTK-B-S (6507727) Touchpanel 
+? DMPS3-300-C (Inv. #: None)(S/N: 1803JBH13082) 
+Cisco Catalyst 3560-CX Series Switch(Inv. #: None)(S/N: FOC2225Y2NS)(Mfg. Date: 20180620), ELMO TT-12iD Document Camera(Inv. #: None)(S/N: 1406889), PTZ Optics Camera, Sharp PN-LE601 TV (S/N: 802614658), Shure SLX1 G4 Lapel Mic, Shure SM58 Handheld Mic, Shure SLX4 wireless mic rec., SerialComm Serial Port Isolator, RDL Dual Microphone Preamplifier, BlackMagicDesign SDI to HDMI | Sources: Computer, Laptop VGA, Laptop HDMI, Doc Cam | "
+COB350.55,,,,,,,,,,,,,
+COB360,,,,,,,,,,,,,
+OIP House,3656,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

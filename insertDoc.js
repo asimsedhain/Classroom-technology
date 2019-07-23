@@ -1,5 +1,5 @@
 const file = require("fs");
-let classroom_raw_data = file.readFileSync("results.json");
+let classroom_raw_data = file.readFileSync("DataBase.json");
 let classroom_data = JSON.parse(classroom_raw_data);
 const dbName = "Classroom-Technology";
 const dbCollection = "Classrooms";

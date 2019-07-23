@@ -1,11 +1,11 @@
 class reimage {
 	static shortDescription(cl) {
 		let currentDate = new Date();
-		let items = ["Location", "UTT Tag"];
+		let items = ["Location", "Computer UTT Tag"];
 		return `Reimage | CL PC | ${cl[items[0]]} | Computer Inv. #: ${cl[items[1]]} | ${currentDate.getMonth() + 1}/${currentDate.getDate()}/${currentDate.getFullYear()} |`;
 	}
 	static workNotes(cl) {
-		let items = ["Location", "Model #", "UTT Tag", "Service Tag", "OS:"];
+		let items = ["Location", "Computer Model", "Computer UTT Tag", "Computer Service Tag", "OS"];
 		let image = "1809 Win 10(x64) Classroom Instructor Image";
 		return `I went into ${cl[items[0]]} to reimage the teacher station Computer: 
 	
