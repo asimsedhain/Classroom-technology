@@ -1,6 +1,6 @@
 const dbName = "Classroom-Technology";
 const dbCollection = "Classrooms";
-const uri = "mongodb+srv://asedhain33:autumnsky100%25@classroom-technology-9sqyb.mongodb.net/test?retryWrites=true&w=majority";
+const uri = process.env.DBURI;
 const MongoClient = require('mongodb').MongoClient;
 const client = new MongoClient(uri, { useNewUrlParser: true });
 
