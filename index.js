@@ -13,7 +13,7 @@ initDb().then(() => {
 	initCollection();
 });
 
-// const hostname = "0.0.0.0";
+const hostname = "localhost";
 const port = process.env.PORT || 3000;
 
 const app = express();
