@@ -13,7 +13,7 @@ initDb().then(() => {
 	initCollection();
 });
 
-const hostname = "localhost";
+// const hostname = "0.0.0.0";
 const port = process.env.PORT || 3000;
 
 const app = express();
@@ -33,7 +33,7 @@ app.all("/", (req, res, next) => {
 
 const server = http.createServer(app);
 
-server.listen(port, hostname, () => {
+server.listen(port, () => {
 	console.log(`Server started at http://${hostname}:${port}`);
 })
 
