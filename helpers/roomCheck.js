@@ -1,3 +1,5 @@
+// Helper module for roomcheck short description and work notes
+
 const building = require("./NameSpliter").building;
 const roomNum = require("./NameSpliter").roomNumber;
 const projectorArray = require("./NameSpliter").projectorArray;

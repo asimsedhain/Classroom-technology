@@ -1,3 +1,6 @@
+// Helper module for reimage short description and work notes 
+
+
 const building = require("./NameSpliter").building;
 const roomNum = require("./NameSpliter").roomNumber;
 

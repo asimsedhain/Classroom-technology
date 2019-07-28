@@ -1,11 +1,19 @@
+// Helper module
+
+
+// Helper function that gets building name from the given string
 function building(s) {
 	return s.match(/^[A-Za-z]+/)[0];
 }
 
+
+// Helper function that gets the room number from the given string
 function roomNumber(s) {
 	return s.match(/\d+/)[0];
 }
 
+
+// returns a formatted string from a given projector array
 function projectorArray(arr) {
 	if (arr.length == 0) {
 		return "N/A";
@@ -21,6 +29,8 @@ function projectorArray(arr) {
 	}
 }
 
+
+// returns a formatted string from a given 2 lamp hours
 function projectorLampHours(a, b) {
 	if (b) {
 		return a + " and " + b + " Hours";
@@ -28,6 +38,8 @@ function projectorLampHours(a, b) {
 		return a + " Hours";
 	}
 }
+
+// returns a formatted string from a given 2 lamp hours
 function projectorLampReplacement(a, b){
 	if(b){
 		if(Number.parseInt(a)<4000&&Number.parseInt(b)<4000){
@@ -44,6 +56,7 @@ function projectorLampReplacement(a, b){
 	}
 }
 
+// exporting all the modules
 module.exports = {
 	building,
 	roomNumber,
