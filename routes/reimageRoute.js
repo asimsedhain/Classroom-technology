@@ -4,8 +4,8 @@ const express = require("express");
 // getting the helper function from the reimage mudual function
 const reimage = require("../helpers/reimage");
 
-// getting the collection from the db module
-const getCollection = require("../db").getCollection;
+// getting the collection from the models folder
+const collection = require("../models/classrooms");
 
 // declaring the router
 const router = express.Router();
@@ -27,7 +27,6 @@ router.get("/", (req, res, next) => {
 
 // handling the GET with the room number
 router.get("/:roomNum", async (req, res, next) => {
-	let collection = await getCollection();
 	let cl;
 	try {
 		cl = await collection.findOne({ "Location": req.params.roomNum.toUpperCase() });

@@ -5,9 +5,8 @@ const express = require("express");
 const http = require("http");
 const bodyParser = require("body-parser");
 
-//Imoporting the db helper functions for initializing the database connection and getting the collection
-const initDb = require("./db").initDb;
-const initCollection = require("./db").initCollection;
+//Importing mongoose to control mongodb
+const mongoose = require("mongoose");
 
 
 //importing the routers for each of the endpoint
@@ -23,9 +22,11 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 //initializing the database and the collection at the start
-initDb().then(() => {
-	initCollection();
-});
+// initDb().then(() => {
+// 	initCollection();
+// });
+
+mongoose.connect(process.env.DBURI, {useNewUrlParser: true});
 
 //the app using middlewares
 app.use(bodyParser.json());
