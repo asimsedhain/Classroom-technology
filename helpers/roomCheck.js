@@ -31,7 +31,7 @@ class roomCheck {
 		
 		Updating the Combined Room Check Excel Spreadsheet on Teams 
 		
-		Waiting to resolve the incident until the issue with the mics is fixed. 
+		Resolving this incident
 		
 		Ashim S`;
 	}
