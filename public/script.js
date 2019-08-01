@@ -8,6 +8,7 @@ if (document.getElementById("formLogin")) {
 }
 
 async function logout() {
+	// const url = "http://localhost:5000/user/logout";
 	const url = "https://classroom-technology.herokuapp.com/user/logout";
 	const statusBar = document.getElementById('status');
 	statusBar.innerText = "Processing";
@@ -23,10 +24,14 @@ async function logout() {
 
 async function login(e) {
 	e.preventDefault();
+	let url = "https://classroom-technology.herokuapp.com/user/login";
+
+
 	let statusBar = document.getElementById('status');
 	let username = document.getElementById("username").value;
 	let password = document.getElementById("password").value;
-	let url = "https://classroom-technology.herokuapp.com/user/login";
+	// const url = "http://localhost:5000/user/login";
+
 
 	statusBar.innerText = "Processing";
 	let req = await fetch(url, {
@@ -47,11 +52,13 @@ async function login(e) {
 
 async function submit(e) {
 	e.preventDefault();
+	// let url = `http://localhost:5000/${option}/${location}`;
+	let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
+
 	let option = document.getElementById('option').value;
 	let location = document.getElementById("location").value;
 	let shortDescription = document.getElementById("Short Description");
 	let workNotes = document.getElementById("Work Notes");
-	let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
 	shortDescription.innerText = "Processing";
 	workNotes.innerText = "";
 	let req = await fetch(url);

@@ -49,7 +49,8 @@ app.use(session({
 	secret: process.env.SESSIONSECRET,
 	saveUninitialized: false,
 	resave: false,
-	store: new mongoStore({ mongooseConnection: mongoose.connection })
+	store: new mongoStore({ mongooseConnection: mongoose.connection }),
+	cookie: { expires : new Date(Date.now() + 1800000) }
 }));
 
 app.use(passport.initialize());
