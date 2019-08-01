@@ -10,7 +10,7 @@ class roomCheck {
 
 	static shortDescription(cl) {
 		let currentDate = new Date();
-		return `Room Check | CL PC | ${building(cl["Location"])} | ${roomNum(cl["Location"])} | ${currentDate.getMonth() + 1}/${currentDate.getDate()}/${currentDate.getFullYear()} |`;
+		return `Room Check | ${building(cl["Location"])} | ${roomNum(cl["Location"])} | ${currentDate.getMonth() + 1}/${currentDate.getDate()}/${currentDate.getFullYear()} |`;
 	}
 
 	static workNotes(cl) {
