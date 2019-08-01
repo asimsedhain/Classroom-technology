@@ -8,7 +8,7 @@ if (document.getElementById("formLogin")) {
 }
 
 async function logout() {
-	const url = "http://localhost:5000/user/logout";
+	// const url = "http://localhost:5000/user/logout";
 	const url = "https://classroom-technology.herokuapp.com/user/logout";
 	const statusBar = document.getElementById('status');
 	statusBar.innerText = "Processing";
