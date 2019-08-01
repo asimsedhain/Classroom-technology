@@ -17,7 +17,9 @@ router.all("/", (req, res, next) => {
 
 // handling the GET request
 router.get("/", (req, res, next) => {
-	res.end("Enter the Classroom number");
+	res.statusCode = 401;
+	res.json({ "Error": "Enter room number" });
+
 })
 
 // handling the GET with the room number
@@ -31,6 +33,7 @@ router.get("/:roomNum", async (req, res, next) => {
 	if (cl) {
 		res.json(cl);
 	} else {
+		res.statusCode = 401;
 		res.json({ "Error": "Invalid Location" });
 	}
 })

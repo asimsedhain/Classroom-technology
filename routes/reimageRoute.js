@@ -20,9 +20,8 @@ router.all("/", (req, res, next) => {
 
 // handling the GET request
 router.get("/", (req, res, next) => {
-	res.json({
-		"Error": "Please enter the room number"
-	});
+	res.statusCode = 401;
+	res.json({ "Error": "Enter room number" });
 })
 
 // handling the GET with the room number
@@ -36,6 +35,7 @@ router.get("/:roomNum", async (req, res, next) => {
 	if (cl) {
 		res.json({ "Short Description": reimage.shortDescription(cl), "Work Notes": reimage.workNotes(cl) });
 	} else {
+		res.statusCode = 401;
 		res.json({ "Error": "Invaild Location" });
 	}
 	// res.end();

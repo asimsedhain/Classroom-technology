@@ -4,6 +4,8 @@
 const express = require("express");
 const http = require("http");
 const bodyParser = require("body-parser");
+const path = require('path');
+const public = path.join(__dirname, 'public');
 
 //Importing mongoose to control mongodb
 const mongoose = require("mongoose");
@@ -54,16 +56,16 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 app.use("/user", loginRouter);
-
-
-//handling the first endpoint
-app.all("/", (req, res, next) => {
-	res.statusCode = 200;
-	res.setHeader("Content-Type", "text/plain");
-	res.end("You have arrived")
-});
+app.use(express.static("public"));
 
 app.use(auth);
+
+//handling the first endpoint
+app.get("/", (req, res, next) => {
+	res.statusCode = 200;
+	res.setHeader("Content-Type", "text/html");
+	res.sendFile(path.join(public, "app.html"));
+});
 
 app.use("/reimage", reimageRouter);
 app.use("/classroom", classroomRouter);
@@ -82,11 +84,10 @@ server.listen(port, () => {
 
 
 function auth (req, res, next) {
-	console.log(req.user);
 	if (!req.user) {
-	  res.statusCode = 401;
-	  res.setHeader("Content-Type", "application/json");
-	  res.json({"Error": "Authentication error"});
+		res.statusCode = 200;
+		res.setHeader("Content-Type", "text/html");
+		res.sendFile(path.join(public, "login.html"));
 	}
 	else {
 			next();
