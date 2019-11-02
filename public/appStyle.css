@@ -43,6 +43,10 @@
 	background: #2c3e50;
  }
 
+ #logout{
+	 width: 100%;
+ }
+
  #location, #option{
 	width: 10%;	
 	font-family: 'Roboto', sans-serif;
@@ -61,4 +65,8 @@
 	font-weight: 200;
 	font-size: 1rem;
 	font-family: 'Roboto', sans-serif;
+ }
+
+ .dataClass:active{
+	 color: #95A5A6;
  }
