@@ -6,6 +6,7 @@ const http = require("http");
 const bodyParser = require("body-parser");
 const path = require('path');
 const public = path.join(__dirname, 'public');
+const cors = require("cors");
 
 //Importing mongoose to control mongodb
 const mongoose = require("mongoose");
@@ -42,6 +43,9 @@ mongoose.connect(process.env.DBURI, { useNewUrlParser: true });
 //the app using middlewares
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
+
+//enabling cors
+app.use(cors());
 
 
 app.use(session({

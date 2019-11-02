@@ -2,17 +2,26 @@
 if (document.getElementById("logout")) {
 	document.getElementById("logout").addEventListener("click", logout);
 	document.getElementById("formGet").addEventListener("submit", submit);
+
+
+	let shortDescription = document.getElementById("Short Description");
+	let workNotes = document.getElementById("Work Notes");
+	workNotes.addEventListener("click", () => {
+		navigator.clipboard.writeText(workNotes.innerText);
+	})
+	shortDescription.addEventListener("click", () => {
+		navigator.clipboard.writeText(shortDescription.innerText);
+	})
 }
 if (document.getElementById("formLogin")) {
 	document.getElementById("formLogin").addEventListener("submit", login);
 }
 
-let shortDescription = document.getElementById("Short Description");
-let workNotes = document.getElementById("Work Notes");
+
 
 async function logout() {
-	// const url = "http://localhost:5000/user/logout";
-	const url = "https://classroom-technology.herokuapp.com/user/logout";
+	const url = "http://localhost:5000/user/logout";
+	// const url = "https://classroom-technology.herokuapp.com/user/logout";
 	const statusBar = document.getElementById('status');
 	statusBar.innerText = "Processing";
 	let res = await fetch(url);
@@ -30,9 +39,9 @@ async function login(e) {
 	let statusBar = document.getElementById('status');
 	let username = document.getElementById("username").value;
 	let password = document.getElementById("password").value;
-	// const url = "http://localhost:5000/user/login";
+	const url = "http://localhost:5000/user/login";
 
-	let url = "https://classroom-technology.herokuapp.com/user/login";
+	// let url = "https://classroom-technology.herokuapp.com/user/login";
 
 	statusBar.innerText = "Processing";
 	let req = await fetch(url, {
@@ -53,11 +62,13 @@ async function login(e) {
 
 async function submit(e) {
 	e.preventDefault();
-	// let url = `http://localhost:5000/${option}/${location}`;
 
+	let shortDescription = document.getElementById("Short Description");
+	let workNotes = document.getElementById("Work Notes");
 	let option = document.getElementById('option').value;
 	let location = document.getElementById("location").value;
-	let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
+	let url = `http://localhost:5000/${option}/${location}`;
+	// let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
 	shortDescription.innerText = "Processing";
 	workNotes.innerText = "";
 	let req = await fetch(url);
@@ -76,13 +87,4 @@ async function submit(e) {
 		workNotes.innerText = rJson["Error"];
 	}
 
-	// console	
 }
-
-workNotes.addEventListener("click", ()=>{
-	navigator.clipboard.writeText(workNotes.innerText);	
-})
-
-shortDescription.addEventListener("click", ()=>{
-	navigator.clipboard.writeText(shortDescription.innerText);	
-})
