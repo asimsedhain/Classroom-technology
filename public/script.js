@@ -81,10 +81,10 @@ async function submit(e) {
 	if (req.status == 200) {
 		shortDescription.innerText = rJson["Short Description"];
 		workNotes.innerText = rJson["Work Notes"];
+		document.getElementById("data").classList.add("card");
 	} else {
 		shortDescription.innerText = "Failed";
 		workNotes.innerText = rJson["Error"];
-		document.getElementById("data").classList.add("card");
 	}
 
 }
