@@ -38,5 +38,15 @@ router.get("/:roomNum", async (req, res, next) => {
 	}
 })
 
+router.post("/", async(req, res)=>{
+	res.statusCode = 401;
+	res.json({ "Error": "Enter room number" });
+})
+
+//complete this code
+router.post("/:roomNum", async(req, res)=>{
+	
+})
+
 // exporting the router
 module.exports = router;

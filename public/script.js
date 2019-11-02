@@ -7,6 +7,9 @@ if (document.getElementById("formLogin")) {
 	document.getElementById("formLogin").addEventListener("submit", login);
 }
 
+let shortDescription = document.getElementById("Short Description");
+let workNotes = document.getElementById("Work Notes");
+
 async function logout() {
 	// const url = "http://localhost:5000/user/logout";
 	const url = "https://classroom-technology.herokuapp.com/user/logout";
@@ -54,8 +57,6 @@ async function submit(e) {
 
 	let option = document.getElementById('option').value;
 	let location = document.getElementById("location").value;
-	let shortDescription = document.getElementById("Short Description");
-	let workNotes = document.getElementById("Work Notes");
 	let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
 	shortDescription.innerText = "Processing";
 	workNotes.innerText = "";
@@ -77,3 +78,11 @@ async function submit(e) {
 
 	// console	
 }
+
+workNotes.addEventListener("click", ()=>{
+	navigator.clipboard.writeText(workNotes.innerText);	
+})
+
+shortDescription.addEventListener("click", ()=>{
+	navigator.clipboard.writeText(shortDescription.innerText);	
+})
