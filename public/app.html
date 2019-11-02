@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+		<title>Classroom Technology</title>
+
+	<!--Linking Style CSS File-->
+	<link rel="stylesheet" href="appStyle.css">
+</head>
+
 <body>
 
-	<h2>Classroom Technology</h2>
-	<div>
+	<div class="card">
+		<div class="title">Classroom Technology</div>
 		<form autocomplete="off" id="formGet">
 			<select id="option">
 				<option value="roomcheck">Room Check</option>
@@ -12,10 +19,9 @@
 				<option value="classroom">Classroom</option>
 			</select>
 			<br><br>
-			Location:<br>
-			<input type="text" name="Location" id="location">
+			<input type="text" name="Location" id="location" placeholder="Location">
 			<br><br>
-			<input type="submit" value="Submit" id="submit">
+			<input type="submit" value="Submit" id="submit" class="btn"
 		</form>
 	</div>
 	<div style="position: absolute; top: 10px; right: 30px;">

@@ -73,7 +73,6 @@ async function submit(e) {
 	workNotes.innerText = "";
 	let req = await fetch(url);
 	let rJson = await req.json();
-	console.log(rJson);
 	if (req.status == 200 && option === "classroom") {
 		shortDescription.innerText = JSON.stringify(rJson, null, 2);
 		workNotes.innerText = "";
@@ -85,6 +84,7 @@ async function submit(e) {
 	} else {
 		shortDescription.innerText = "Failed";
 		workNotes.innerText = rJson["Error"];
+		document.getElementById("data").classList.add("card");
 	}
 
 }

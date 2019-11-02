@@ -4,14 +4,14 @@
   }
   
   body {
-    background: #c9e4ca;
+    background: #95A5A6;
   }
 
   .card-signin {
     border: 0;
     border-radius: 1rem;
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
-    background:#F5F7DC;
+    background:#ECF0F1;
     position: relative;
     left:350px;
     top:150px;
@@ -34,14 +34,14 @@
   
   .form-signin .btn {
     font-size: 15px;
-    border-radius: 5rem;
+    border-radius: 1rem;
     letter-spacing: .1rem;
     font-weight: bold;
     padding: 1rem;
     transition: all 0.2s;
 	 font-family: 'Roboto', sans-serif;
-	 background: #3b6064;
-    border-color: #3b6064;
+	 background: #6C7A89;
+    border-color: #6C7A89;
   }
   
   .form-label-group {
@@ -51,7 +51,7 @@
   
   .form-label-group input {
     height: auto;
-    border-radius: 2rem;
+    border-radius: 1rem;
   }
   
   .form-label-group>input,
@@ -68,7 +68,7 @@
     margin-bottom: 0;
     /* Override default `<label>` margin */
     line-height: 1.5;
-    color: #495057;
+    color: #ECF0F1;
     border: 1px solid transparent;
     border-radius: .25rem;
     transition: all .1s ease-in-out;
