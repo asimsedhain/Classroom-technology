@@ -52,7 +52,7 @@ app.use(session({
 	name: 'session-id',
 	secret: process.env.SESSIONSECRET,
 	saveUninitialized: true,
-	resave: true,
+	resave: false,
 	store: new mongoStore({ mongooseConnection: mongoose.connection }),
 	// cookie: { expires : new Date(Date.now() + 1800000) }
 }));
