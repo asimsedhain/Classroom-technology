@@ -71,7 +71,8 @@ async function submit(e) {
 	let url = `https://classroom-technology.herokuapp.com/${option}/${location}`;
 	shortDescription.innerText = "Processing";
 	workNotes.innerText = "";
-	document.getElementById("data").classList.add("card");
+	document.getElementById("data").classList.add("card","bg-light", "mb-3");
+	shortDescription.classList.add("card-header")
 	let req = await fetch(url);
 	let rJson = await req.json();
 	if (req.status == 200 && option === "classroom") {

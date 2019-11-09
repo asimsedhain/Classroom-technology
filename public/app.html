@@ -2,42 +2,69 @@
 <html>
 
 <head>
-		<title>Classroom Technology</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Classroom Technology</title>
+
+	<!---Bootstrap CDN-->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 	<!--Linking Style CSS File-->
 	<link rel="stylesheet" href="appStyle.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
-	<div class="card">
-		<div class="title">Classroom Technology</div>
-		<form autocomplete="off" id="formGet">
-			<select id="option">
-				<option value="roomcheck">Room Check</option>
-				<option value="reimage">Reimage</option>
-				<option value="classroom">Classroom</option>
-			</select>
-			<br><br>
-			<input type="text" name="Location" id="location" placeholder="Location">
-			<br><br>
-			<input type="submit" value="Submit" id="submit" class="btn">
-		</form>
-	</div>
-	<div style="position: absolute; top: 10px; right: 30px;">
-		<button id="logout" class="btn">
+	<nav class="navbar navbar-dark bg-dark navbar-fixed-top">
+		<a class="navbar-brand" href="#">
+			Classroom Technology
+		</a>
+		<button id="logout" class="btn btn-light">
 			Logout
 		</button>
-		<br><br>
-		<div id="status"></div>
+	</nav>
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="card bg-light mb-3">
+					<div class="card-body">
+				<form autocomplete="off" id="formGet">
+					<div class="form-group">
+						<select id="option" class="form-control">
+							<option value="roomcheck">Room Check</option>
+							<option value="reimage">Reimage</option>
+							<option value="classroom">Classroom</option>
+						</select>
+					</div>
+					<div class="form-group">
+						<input type="text" class="form-control" name="Location" id="location" placeholder="Location">
+					</div>
+					<div class="form-group">
+						<input type="submit" class="btn btn-primary" value="Submit" id="submit">
+					</div>
+				</form>
+			</div>
+			</div>
+			</div>
+		</div>
+		<div style="position: absolute; top: 10px; right: 30px;">
+			<br><br>
+			<div id="status"></div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<div id="data">
+					<div id="Short Description" class="dataClass"></div>
+					<div class="card-body">
+						<div id="Work Notes" class="dataClass"></div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-	<br><br>
-	<div id="data">
-		<div id="Short Description" class="dataClass"></div>
-		<br>
-		<div id="Work Notes" class="dataClass"></div>
-	</div>
-
 	<script src="script.js"></script>
 </body>
 
