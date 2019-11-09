@@ -22,28 +22,23 @@ if (document.getElementById("formLogin")) {
 async function logout() {
 	// const url = "http://localhost:5000/user/logout";
 	const url = "https://classroom-technology.herokuapp.com/user/logout";
-	const statusBar = document.getElementById('status');
-	statusBar.innerText = "Processing";
 	let res = await fetch(url);
 	if (res.status == 200) {
-		statusBar.innerText = "Logged Out";
 		window.location = res.url;
 	} else {
-		statusBar.innerText = "Failed";
+		console.log(res);
 	}
 }
 
 
 async function login(e) {
 	e.preventDefault();
-	let statusBar = document.getElementById('status');
 	let username = document.getElementById("username").value;
 	let password = document.getElementById("password").value;
 	// const url = "http://localhost:5000/user/login";
 
 	let url = "https://classroom-technology.herokuapp.com/user/login";
 
-	statusBar.innerText = "Processing";
 	let req = await fetch(url, {
 		method: "POST",
 		headers: {
@@ -53,10 +48,9 @@ async function login(e) {
 		body: JSON.stringify({ "username": username, "password": password })
 	})
 	if (req.status == 200) {
-		statusBar.innerText = "Success";
 		window.location = req.url;
 	} else {
-		statusBar.innerText = "Failed";
+		console.log(req);
 	}
 }
 
