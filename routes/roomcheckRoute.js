@@ -28,7 +28,11 @@ router.get("/", (req, res, next) => {
 router.get("/:roomNum", async (req, res, next) => {
 	let cl;
 	try {
-		cl = await collection.findOne({ "Location": req.params.roomNum.toUpperCase() });
+		if (req.user.admin) {
+			cl = await collection.findOne({ "Location": req.params.roomNum.toUpperCase() });
+		} else {
+			cl = await collection.findOne({ "Location": "Dummy123" });
+		}
 	} catch (e) {
 		console.log(e);
 	}

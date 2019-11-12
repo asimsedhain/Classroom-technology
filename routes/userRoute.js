@@ -34,7 +34,7 @@ router.get('/logout', (req, res) => {
 
 
 //  router.post('/signup', (req, res, next) => {
-// 	user.register(new user({username: req.body.username}), 
+// 	user.register(new user({username: req.body.username, admin: false}), 
 // 	  req.body.password, (err, user) => {
 // 	  if(err) {
 // 		 res.statusCode = 500;

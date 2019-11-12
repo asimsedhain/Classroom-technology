@@ -3,7 +3,6 @@ if (document.getElementById("logout")) {
 	document.getElementById("logout").addEventListener("click", logout);
 	document.getElementById("formGet").addEventListener("submit", submit);
 
-
 	let shortDescription = document.getElementById("Short Description");
 	let workNotes = document.getElementById("Work Notes");
 	workNotes.addEventListener("click", () => {
@@ -15,6 +14,7 @@ if (document.getElementById("logout")) {
 }
 if (document.getElementById("formLogin")) {
 	document.getElementById("formLogin").addEventListener("submit", login);
+	document.getElementById("preview").addEventListener("click", (e)=>{login(e, "dummy", "dumbdumb123")});
 }
 
 
@@ -31,7 +31,7 @@ async function logout() {
 }
 
 
-async function login(e) {
+async function login(e, u, p) {
 	e.preventDefault();
 	let username = document.getElementById("username").value;
 	let password = document.getElementById("password").value;
@@ -39,6 +39,10 @@ async function login(e) {
 
 	let url = "https://classroom-technology.herokuapp.com/user/login";
 
+	if(u&&p){
+		username = u;
+		password = p;
+	}
 	let req = await fetch(url, {
 		method: "POST",
 		headers: {
@@ -53,6 +57,7 @@ async function login(e) {
 		console.log(req);
 	}
 }
+
 
 async function submit(e) {
 	e.preventDefault();

@@ -25,8 +25,13 @@ router.get("/", (req, res, next) => {
 // handling the GET with the room number
 router.get("/:roomNum", async (req, res, next) => {
 	let cl;
+
 	try {
-		cl = await collection.findOne({ "Location": req.params.roomNum.toUpperCase() });
+		if (req.user.admin) {
+			cl = await collection.findOne({ "Location": req.params.roomNum.toUpperCase() });
+		} else {
+			cl = await collection.findOne({ "Location": "Dummy123" });
+		}
 	} catch (err) {
 		console.log(err);
 	}
@@ -38,14 +43,14 @@ router.get("/:roomNum", async (req, res, next) => {
 	}
 })
 
-router.post("/", async(req, res)=>{
+router.post("/", async (req, res) => {
 	res.statusCode = 401;
 	res.json({ "Error": "Enter room number" });
 })
 
 //complete this code
-router.post("/:roomNum", async(req, res)=>{
-	
+router.post("/:roomNum", async (req, res) => {
+
 })
 
 // exporting the router
