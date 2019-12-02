@@ -7,7 +7,7 @@ https://classroom-technology.herokuapp.com/
 
 ![Preview Image](public/Preview01.png)
 
-Most of the information are locked for admin to preview and edit. But anyone can click the preview the site and functionality by clicking on the "Preview" button.
+Most of the information are locked for admin but anyone can preview the site and functionality by clicking on the "Preview" button.
 
 The web app will create a report or preview room status depending on the drop down option and room location
 ![Preview Image](public/Preview02.png)
