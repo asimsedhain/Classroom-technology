@@ -20,3 +20,6 @@ The web app will create a report or preview room status depending on the drop do
 * Syncing with Astra to look up schedule
 * Moving to React creating a singular page experience
 * Adding a prediction on room status
+
+## Project Status
+Currently on-hold
