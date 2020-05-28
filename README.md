@@ -1,6 +1,27 @@
+<p align="center">
+	<h1 align="center">
+		Classroom Technology Management
+	</h1>
+	<p align="center">
+		A web app created for classroom technicians for managing classrooms status and information.
+	</p>
+	<p align="center">
+		<a href="https://github.com/asimsedhain/Classroom-technology/graphs/commit-activity">
+			<img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
+		</a>
+		<a href="https://classroom-technology.herokuapp.com">
+			<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" />
+		</a>
+		<a href="/">
+			<img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" />
+		</a>
+		</p>
+</p>
+
+
+
 # Classroom-technology
 
-A web app created for classroom technicians for managing classrooms status and information.
 
 The web app can be accessed in the following website:
 https://classroom-technology.herokuapp.com/
