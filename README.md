@@ -19,14 +19,11 @@
 </p>
 
 
-
-# Classroom-technology
+![Preview Image](public/Preview01.png)
 
 
 The web app can be accessed in the following website:
 https://classroom-technology.herokuapp.com/
-
-![Preview Image](public/Preview01.png)
 
 Most of the information is locked for admin but anyone can preview the site and functionality by clicking on the "Preview" button.
 
